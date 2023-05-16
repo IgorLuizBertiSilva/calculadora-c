@@ -37,9 +37,6 @@ int calcular(float valores[], char operacao[], int tamOperacoes){
     
 }
 
-float teste(x, y){
-    return x + y;
-}
 
 int calculadora(int tammanhoValores, int tamanhoOperacoes){
     float valores[tammanhoValores];
